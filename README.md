@@ -1,4 +1,5 @@
 ### Hi there 👋
+![thorbino Github Stats](https://github-readme-stats.vercel.app/api?username=thorbino2006&theme=dark&show_icons=true)  
 ![](https://komarev.com/ghpvc/?username=thorbino2006)
 
 <!--
